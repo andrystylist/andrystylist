@@ -1,6 +1,6 @@
 # Hola, Soy Andry 
 
-## 🚀 Me considero una mujer determinada, proactiva, amante de los desafíos, este año 2022 tomé la decisión de cambiar de carrera, he vivido inmersa unos meses en el universo IT, ha sido verdaderamente fascinante lograr avances en aprendizajes como desarrolladora Backend. Siempre he sido demasiado creativa y me encanta ver la vida como un verdadero camino lleno de ideas deseando convertirlos en grandes proyectos, aplicando mucha lógica para poder solucionar los problemas que se presenten de la mejor manera. Razón principal por la que decidí reinventarme, desde el día cero ha sido impresionante la experiencia y enriquecedora en conocimientos sólidos. "Nunca es tarde para cumplir tus objetivos"
+🚀 Me considero una mujer determinada, proactiva, amante de los desafíos, este año 2022 tomé la decisión de cambiar de carrera, he vivido inmersa unos meses en el universo IT, ha sido verdaderamente fascinante lograr avances en aprendizajes como desarrolladora Backend. Siempre he sido demasiado creativa y me encanta ver la vida como un verdadero camino lleno de ideas deseando convertirlos en grandes proyectos, aplicando mucha lógica para poder solucionar los problemas que se presenten de la mejor manera. Razón principal por la que decidí reinventarme, desde el día cero ha sido impresionante la experiencia y enriquecedora en conocimientos sólidos. "Nunca es tarde para cumplir tus objetivos"
 
  
 ## 🔗 Links
