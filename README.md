@@ -12,5 +12,4 @@
 Python, Django, FastAPI, Flask, MySQL, PostgreSQL
 
 
-![Logo]
-<img src="https://github.com/andrystylist/andrystylist/blob/ebdbc31e4a8a2c70ad53c0c4f394a57d1d2e604b/logo.png" width="200" />
+<img alt="Logo AndryStylist" src="https://github.com/andrystylist/andrystylist/blob/ebdbc31e4a8a2c70ad53c0c4f394a57d1d2e604b/logo.png" width="100" />
