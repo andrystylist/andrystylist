@@ -9,7 +9,8 @@
 
 
 ## 🛠 Skills
-python, django, PostgreSQL, FastAPI, Flask, MySQL
+Python, Django, FastAPI, Flask, MySQL, PostgreSQL
 
 
-![Logo](https://github.com/andrystylist/andrystylist/blob/ebdbc31e4a8a2c70ad53c0c4f394a57d1d2e604b/logo.png)
+![Logo]
+<img src="https://github.com/andrystylist/andrystylist/blob/ebdbc31e4a8a2c70ad53c0c4f394a57d1d2e604b/logo.png" width="200" />
