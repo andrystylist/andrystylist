@@ -19,7 +19,7 @@ Python, Django, React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, Po
 
 
 <img alt="Logo AndryStylist"
-     src="https://github.com/andrystylist/andrystylist/blob/ebdbc31e4a8a2c70ad53c0c4f394a57d1d2e604b/logo.png"
+     src="https://github.com/andrystylist/andrystylist/Screen_Shot_2023-09-27_at_12.25.03_AM-removebg-preview.png"
      width="100"
      style="border-radius: 50%;"
 />
