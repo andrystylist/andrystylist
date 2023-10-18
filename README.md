@@ -1,6 +1,12 @@
-# Hola, Soy Andry 
+# Hola, Comunidad 
 
-🚀 Me considero una mujer determinada, proactiva, amante de los desafíos, este año 2022 tomé la decisión de cambiar de carrera, he vivido inmersa unos meses en el universo IT, ha sido verdaderamente fascinante lograr avances en aprendizajes como desarrolladora Backend. Siempre he sido demasiado creativa y me encanta ver la vida como un verdadero camino lleno de ideas deseando convertirlos en grandes proyectos, aplicando mucha lógica para poder solucionar los problemas que se presenten de la mejor manera. Razón principal por la que decidí reinventarme, desde el día cero ha sido impresionante la experiencia y enriquecedora en conocimientos sólidos. "Nunca es tarde para cumplir tus objetivos"
+🚀 Soy Andry Peña, ingeniera ambiental de profesión. Me considero una mujer determinada, proactiva y amante de los desafíos. Tomé la decisión de cambiar de carrera. He vivido inmersa unos meses en el universo IT. Ha sido fascinante lograr avances en mis aprendizajes como desarrolladora full stack. Toda mi vida he sido muy creativa y me encanta ver la vida como un verdadero camino lleno de ideas, deseando convertirlos en grandes proyectos.
+
+Una de las razones por las que decidí reinventarme es darme cuenta de que aplicar lógica me permite crear cosas nuevas y resolver problemas. El desarrollo web es una forma de utilizar la tecnología para crear productos y servicios que pueden tener un impacto positivo en la sociedad.
+
+Desde el día cero ha sido una experiencia impresionante y enriquecedora. He adquirido conocimientos sólidos realizando proyectos para crecer profesionalmente. Destacando en las aplicaciones funcionalidades importantes para una buena experiencia de usuario. Adquiriendo experiencia y conocimientos de tecnologías y herramientas aplicadas importantes como:
+
+React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, PostgreSQL, Scrum, MongoDB, CSS, SASS, Git, Node.js, Express.js, Scrum, Cypress, Jest, Cloudinary, Stripe.
 
  
 ## 🔗 Links
@@ -9,7 +15,7 @@
 
 
 ## 🛠 Skills
-Python, Django, FastAPI, Flask, MySQL, PostgreSQL
+Python, Django, React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, PostgreSQL, Scrum, MongoDB, CSS, SASS, Git, Node.js, Express.js, Scrum, Cypress, Jest, Cloudinary, Stripe.
 
 
 <img alt="Logo AndryStylist"
