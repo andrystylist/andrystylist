@@ -1,10 +1,7 @@
 # Hola, Comunidad 
 
-🚀 Soy Andry Peña, ingeniera ambiental de profesión. Me considero una mujer determinada, proactiva y amante de los desafíos. Tomé la decisión de cambiar de carrera. He vivido inmersa unos meses en el universo IT. Ha sido fascinante lograr avances en mis aprendizajes como desarrolladora full stack. Toda mi vida he sido muy creativa y me encanta ver la vida como un verdadero camino lleno de ideas, deseando convertirlos en grandes proyectos.
+🚀 Soy Andry Peña, Desarrolladora Full Stack, Ingeniero Ambiental, como mujer considero que una de mis fortalezas es la capacidad de adaptarme a diferentes entornos de trabajo y tecnologías, he demostrado durante el trabajo colaborativo una gran proactividad y capacidad de liderazgo, mi pasión por el desarrollo web me mantiene siempre dispuesta a seguir aprendiendo y estar actualizada, Mi experiencia en React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, PostgreSQL, Scrum, CSS, SASS, Git, Node.js, Express.js, Scrum, Cypress, Jest, Cloudinary, Stripe, Java, Spring, MongoDB,REST APIs, Python, Docker, Me ha permitido construir aplicaciones web sólidas y escalables. Me apasiona construir soluciones backend robustas para productos digitales innovadores y todo lo relacionado con la lógica y la arquitectura de software.
 
-Una de las razones por las que decidí reinventarme es darme cuenta de que aplicar lógica me permite crear cosas nuevas y resolver problemas. El desarrollo web es una forma de utilizar la tecnología para crear productos y servicios que pueden tener un impacto positivo en la sociedad.
-
-Desde el día cero ha sido una experiencia impresionante y enriquecedora. He adquirido conocimientos sólidos realizando proyectos para crecer profesionalmente. Destacando en las aplicaciones funcionalidades importantes para una buena experiencia de usuario. Adquiriendo experiencia y conocimientos de tecnologías y herramientas aplicadas importantes como:
 
 React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, PostgreSQL, Scrum, MongoDB, CSS, SASS, Git, Node.js, Express.js, Scrum, Cypress, Jest, Cloudinary, Stripe.
 
@@ -15,11 +12,5 @@ React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, PostgreSQL, Scrum,
 
 
 ## 🛠 Skills
-Python, Django, React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, PostgreSQL, Scrum, MongoDB, CSS, SASS, Git, Node.js, Express.js, Scrum, Cypress, Jest, Cloudinary, Stripe.
+Python, React, NodeJs, Next.js, Javascript, Strapi, HTML, Typescript, PostgreSQL, Scrum, MongoDB, CSS, SASS, Git, Node.js, Express.js, Scrum, Cypress, Jest, Cloudinary, Stripe, Java, Spring
 
-
-<img alt="Logo AndryStylist"
-     src="https://github.com/andrystylist/andrystylist/Screen_Shot_2023-09-27_at_12.25.03_AM-removebg-preview.png"
-     width="100"
-     style="border-radius: 50%;"
-/>
